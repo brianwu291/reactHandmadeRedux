@@ -3,8 +3,7 @@ This project follow the Redux patten(Presentational Component and Container Comp
 library, just try to write something to imitate Redux library.
 
 ## Available Scripts
-
-In the project directory, you can run:
+First, run npm install, then in the project directory, you can run:
 
 ### `npm start`
 
