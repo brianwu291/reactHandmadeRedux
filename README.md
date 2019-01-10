@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 This project follow the Redux patten(Presentational Component and Container Component). But use no Redux<br>
-library, just try to write something to imitate Redux library.
+library, just try to write something to imitate Redux library.<br>
+Try this app [here](https://brianwu291.github.io/reactHandmadeRedux/).
 
 ## Available Scripts
 First, run npm install, then in the project directory, you can run:
